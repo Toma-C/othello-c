@@ -1,0 +1,5 @@
+Sonne,N
+Mond,B
+N
+F5
+D6

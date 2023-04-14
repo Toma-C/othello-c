@@ -1,0 +1,3 @@
+Jugador,B
+Jugador2,N
+N

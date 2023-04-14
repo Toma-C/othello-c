@@ -1,0 +1,6 @@
+jugador 1,B
+jugador 2,N
+B
+A1
+B2
+C3

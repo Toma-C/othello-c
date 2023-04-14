@@ -1,0 +1,7 @@
+Sol,N
+Juan,B
+N
+F5
+D6
+A9
+F6
