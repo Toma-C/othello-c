@@ -1,7 +1,6 @@
 # othello-c
-Implementation of the game othello or reversi in c.
-## Options:
--t: plays through the game and prints the state of the specified games. Doesn't output to file
+Implementacion de othello or reversi en c.
+Trabajo practico de la materia programacion 2.
 ## Description:
 Prints the result of the game in arg 1 to a file with the name specified by arg 2
 ## Game format
